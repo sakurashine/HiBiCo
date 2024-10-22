@@ -1,7 +1,3 @@
-#Copyright (C) 2020 Xiao Wang
-#License: MIT for academic use.
-#Contact: Xiao Wang (wang3702@purdue.edu, xiaowang20140001@gmail.com)
-
 import os
 from ops.argparser import  argparser
 from ops.Config_Environment import Config_Environment
@@ -19,7 +15,6 @@ def main(args):
         # main_worker process function
         mp.spawn(main_worker, nprocs=ngpus_per_node, args=(ngpus_per_node, args))
     else:
-        # 进入此条件
         # Simply call main_worker function
         main_worker(args.gpu, ngpus_per_node, args)  # 0,1
 if __name__ == '__main__':
