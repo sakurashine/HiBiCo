@@ -125,9 +125,7 @@ def sample_gt(gt, train_size=None, mode='', sample_nums=5):
         test_gt = np.copy(gt)
         for c in np.unique(gt):
             mask = gt == c
-            # gt.shape[0]为145
             for x in range(gt.shape[0]):
-                # 0到145遍历
                 first_half_count = np.count_nonzero(mask[:x, :])
                 second_half_count = np.count_nonzero(mask[x:, :])
                 try:
