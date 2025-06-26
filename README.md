@@ -76,4 +76,4 @@ If this work aids your research, we would appreciate a kindly citation:
 ```
 
 ## Contact
-If you have any questions or suggestions, feel free to open an issue, or contact me at dongj39@mail2.sysu.edu.cn.
+If you have any questions, feel free to open an issue, or contact me at dongj39@mail2.sysu.edu.cn.
