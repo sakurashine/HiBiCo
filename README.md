@@ -14,7 +14,7 @@ HiBiCo addresses these issues via:
 - Bidirectional contrastive learning.
 - Hierarchical dictionaries.
 
-![HiBiCo_graph](./HiBiCo_graph.png "graph")
+![HiBiCo_graph](./HiBiCo_graph.png "HiBiCo_graph")
 
 ## Requirement
 - torch>=1.7.1
