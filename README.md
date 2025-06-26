@@ -57,5 +57,5 @@ python main.py
 ```
 
 ## References
-Our implementation is based on [CaCo](https://github.com/maple-research-lab/CaCo) and [LSCoSa]([https://github.com/maple-research-lab/CaCo](https://github.com/sakurashine/LSCoSa)). We would like to thank them.
+Our implementation is based on [CaCo](https://github.com/maple-research-lab/CaCo) and [LSCoSa](https://github.com/sakurashine/LSCoSa). We would like to thank them.
 
