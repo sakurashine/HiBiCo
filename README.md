@@ -33,7 +33,7 @@ mkdir test_log
 ```
 
 ## Datasets
-The dataset We used is provided below, you can also use your own datasets for this project.
+The dataset we used is provided below, you can also replace your own datasets for this project.
 - [IndianPines](https://www.ehu.eus/ccwintco/index.php?title=Hyperspectral_Remote_Sensing_Scenes)
 - [Botswana](https://www.ehu.eus/ccwintco/index.php?title=Hyperspectral_Remote_Sensing_Scenes)
 - [HyRANK-Dioni](https://www.noda.ac.cn/datasharing/datasetDetails/67c96f8cdf65e3259a9c9366)
