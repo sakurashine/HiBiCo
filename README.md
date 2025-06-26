@@ -33,8 +33,8 @@ mkdir test_log
 ```
 
 ## Datasets
-- IndianPines
-- Botswana
+- [IndianPines](https://www.ehu.eus/ccwintco/index.php?title=Hyperspectral_Remote_Sensing_Scenes)
+- [Botswana](https://www.ehu.eus/ccwintco/index.php?title=Hyperspectral_Remote_Sensing_Scenes)
 - HyRANK-Dioni
 - [Houston University 2018](https://drive.google.com/drive/folders/1_WPFh2iOrCP0BZ6JbCKsq9eNbGj6fIqE?usp=drive_link)
 
