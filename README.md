@@ -36,10 +36,11 @@ mkdir test_log
 - IndianPines
 - Botswana
 - HyRANK-Dioni
-- Houston University 2018
+- [Houston University 2018](https://drive.google.com/drive/folders/1_WPFh2iOrCP0BZ6JbCKsq9eNbGj6fIqE?usp=drive_link)
 
 ## Pretrained models
 Please download the corresponding pretrained model and modify the `pretrained` parameter in `linear.py`.
+[IndianPines](https://drive.google.com/file/d/1zQ8nhpZaDyB5JYo4ERNp87Dp-N89ntly/view?usp=sharing) | Botswana | 
 
 ## Linear Probing
 We can easily evaluate the linear probing performance of the pre-trained model with
