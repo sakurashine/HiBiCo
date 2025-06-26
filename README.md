@@ -11,10 +11,8 @@ Learning effective representations of hyperspectral images (HSIs) is challenging
 - **May ignore category relationships** or lose fine-grained spectral details
 
 HiBiCo addresses these issues via:
-- Hierarchical prototypes
-- Bidirectional contrastive learning 
-
-enabling robust and discriminative HSI feature extraction.
+- Hierarchical dictionaries.
+- Bidirectional contrastive learning.
 
 ![HiBiCo_graph](./HiBiCo_graph.png "graph")
 
@@ -59,3 +57,20 @@ python main.py
 ## References
 Our implementation is based on [CaCo](https://github.com/maple-research-lab/CaCo) and [LSCoSa](https://github.com/sakurashine/LSCoSa). We would like to thank them.
 
+## Citation
+lf you find this code available, we would appreciate a kindly citation:
+```
+@ARTICLE{11050958,
+  author={Dong, Jian and Liang, Miaomiao and He, Zhi and Zhou, Chengle},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={Hierarchical and Bidirectional Contrastive Learning for Hyperspectral Image Classification}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Hyperspectral image (HSI);self-supervised learning (SSL);learnable prototypical contrastive learning;hierarchical deep supervision;bidirectional contrastive learning},
+  doi={10.1109/TGRS.2025.3582963}}
+```
+
+## Contact
+If you have any questions or suggestions, welcome to contact me by email: dongj39@mail2.sysu.edu.cn
