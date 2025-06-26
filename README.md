@@ -44,14 +44,14 @@ Please download the corresponding pretrained model and modify the `pretrained` p
 [IndianPines](https://drive.google.com/file/d/1zQ8nhpZaDyB5JYo4ERNp87Dp-N89ntly/view?usp=sharing) | [Botswana](https://drive.google.com/file/d/1VMIP_QUBUzHWi03Fuhz8oHtL-G4bG9pn/view?usp=sharing) | [HyRANK-Dioni](https://drive.google.com/file/d/1reaPW_EI37XX9OFuxVFSqfkgf93278vi/view?usp=sharing) | [Houston University 2018](https://drive.google.com/file/d/1KbARJFdgVNP5Q8CEf3NLuj1iPTHulbkI/view?usp=sharing)
 
 ## Linear Probing
-We can easily evaluate the linear probing performance of the pre-trained model with
+We can easily evaluate the linear probing performance of the pre-trained model with:
 ```
 python linear.py
 ```
 We can check the output in `./results`.
 
 ## Unsupervised Pre-Training
-If you wanna train the model by yourself, just run:
+If you wanna train the model by yourself, please run:
 ```
 python main.py
 ```
