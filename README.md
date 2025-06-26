@@ -40,6 +40,7 @@ mkdir test_log
 
 ## Pretrained models
 Please download the corresponding pretrained model and modify the `pretrained` parameter in `linear.py`.
+
 [IndianPines](https://drive.google.com/file/d/1zQ8nhpZaDyB5JYo4ERNp87Dp-N89ntly/view?usp=sharing) | Botswana | 
 
 ## Linear Probing
