@@ -35,7 +35,7 @@ mkdir test_log
 ## Datasets
 - [IndianPines](https://www.ehu.eus/ccwintco/index.php?title=Hyperspectral_Remote_Sensing_Scenes)
 - [Botswana](https://www.ehu.eus/ccwintco/index.php?title=Hyperspectral_Remote_Sensing_Scenes)
-- HyRANK-Dioni
+- [HyRANK-Dioni](https://www.noda.ac.cn/datasharing/datasetDetails/67c96f8cdf65e3259a9c9366)
 - [Houston University 2018](https://drive.google.com/drive/folders/1_WPFh2iOrCP0BZ6JbCKsq9eNbGj6fIqE?usp=drive_link)
 
 ## Pretrained models
