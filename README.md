@@ -58,7 +58,7 @@ python main.py
 Our implementation is based on [CaCo](https://github.com/maple-research-lab/CaCo) and [LSCoSa](https://github.com/sakurashine/LSCoSa). We would like to thank them.
 
 ## Citation
-lf you find this code useful, we would appreciate a kindly citation:
+If this work aids your research, we would appreciate a kindly citation:
 ```
 @ARTICLE{11050958,
   author={Dong, Jian and Liang, Miaomiao and He, Zhi and Zhou, Chengle},
@@ -73,4 +73,4 @@ lf you find this code useful, we would appreciate a kindly citation:
 ```
 
 ## Contact
-If you have any questions or suggestions, feel free to open an issue, also welcome to contact me by email: dongj39@mail2.sysu.edu.cn
+If you have any questions or suggestions, feel free to open an issue, or contact me dongj39@mail2.sysu.edu.cn.
