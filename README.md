@@ -34,10 +34,10 @@ mkdir test_log
 
 ## Datasets
 The dataset we used is provided below, you can also replace your own datasets for this project.
-- IndianPines [Grupo de Inteligencia Computacional](https://www.ehu.eus/ccwintco/index.php?title=Hyperspectral_Remote_Sensing_Scenes)
-- Botswana [Grupo de Inteligencia Computacional](https://www.ehu.eus/ccwintco/index.php?title=Hyperspectral_Remote_Sensing_Scenes)
-- HyRANK [National Earth Observation Data Center](https://www.noda.ac.cn/datasharing/datasetDetails/67c96f8cdf65e3259a9c9366)
-- Houston University 2018 [My Google Drive](https://drive.google.com/drive/folders/1_WPFh2iOrCP0BZ6JbCKsq9eNbGj6fIqE?usp=drive_link)
+- IndianPines: [Grupo de Inteligencia Computacional](https://www.ehu.eus/ccwintco/index.php?title=Hyperspectral_Remote_Sensing_Scenes)
+- Botswana: [Grupo de Inteligencia Computacional](https://www.ehu.eus/ccwintco/index.php?title=Hyperspectral_Remote_Sensing_Scenes)
+- HyRANK: [National Earth Observation Data Center](https://www.noda.ac.cn/datasharing/datasetDetails/67c96f8cdf65e3259a9c9366)
+- Houston University 2018: [My Google Drive](https://drive.google.com/drive/folders/1_WPFh2iOrCP0BZ6JbCKsq9eNbGj6fIqE?usp=drive_link)
 
 ## Pretrained models
 Please download the corresponding pretrained model and modify the `pretrained` parameter in `linear.py`.
