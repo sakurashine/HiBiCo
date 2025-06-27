@@ -25,9 +25,8 @@ pip install -r requirements.txt
 ```
 
 ## Setup
-Create a `dataset`, `result` and `test_log` folder in the project directory:
+Create a `result` and `test_log` folder in the project directory:
 ```bash
-mkdir dataset
 mkdir result
 mkdir test_log
 ```
