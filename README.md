@@ -46,7 +46,7 @@ Please download the corresponding pretrained model and modify the `pretrained` p
 ## Linear Probing
 We can easily evaluate the linear probing performance of the pre-trained model with:
 ```
-python linear.py
+python linear.py --pretrained [YOUR_PRETRAINED_MODEL_PATH] --folder [YOUR_DATASET_ROOT_PATH] --dataset [DATASET_NAME]   
 ```
 We can check the output in `./results`.
 
