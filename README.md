@@ -5,14 +5,14 @@ This is the official implementation of the paper **"Hierarchical and Bidirection
 ![HiBiCo_motivation](./HiBiCo_motivation.png "HiBiCo_motivation")
 ## Overview
 
-Learning effective representations of hyperspectral images (HSIs) is challenging due to spectral variability, especially under label-free conditions. Existing self-supervised contrastive learning methods face two key limitations:
+Learning effective representations of hyperspectral images (HSIs) is challenging due to spectral variability, especially under **label-free** conditions. Existing self-supervised contrastive learning methods face two key limitations:
 
 - **Require careful hyperparameter tuning** (e.g., temperature scaling) to avoid model collapse.
 - **May ignore category relationships** or lose fine-grained spectral details due to final-layer contrastive loss.
 
 HiBiCo addresses these issues via:
-- Bidirectional contrastive learning.
-- Hierarchical dictionaries.
+- **Bidirectional contrastive learning**.
+- **Hierarchical dictionaries**.
 
 ![HiBiCo_graph](./HiBiCo_graph.png "HiBiCo_graph")
 
