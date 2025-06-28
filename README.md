@@ -53,7 +53,7 @@ We can check the output in `./results`.
 ## Unsupervised Pre-Training
 If you wanna train the model by yourself, please run:
 ```
-python main.py
+python main.py --data_folder [DATASET_ROOT_PATH] --dataset [DATASET_NAME]
 ```
 
 ## References
