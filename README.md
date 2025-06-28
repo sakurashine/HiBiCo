@@ -56,7 +56,7 @@ If you wanna train the model by yourself, please run:
 python main.py --data_folder [DATASET_ROOT_PATH] --dataset [DATASET_NAME]
 ```
 
-## References
+## Acknowledgments
 Our implementation is based on [CaCo](https://github.com/maple-research-lab/CaCo) and [LSCoSa](https://github.com/sakurashine/LSCoSa). We would like to thank them.
 
 ## Citation
