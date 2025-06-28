@@ -23,7 +23,7 @@ HiBiCo addresses these issues via:
 ```bash
 pip install -r requirements.txt
 ```
-Create two directories `result` and `test_log` in the project:
+Create two directories `./result` and `./test_log` in the project:
 ```bash
 mkdir result
 mkdir test_log
