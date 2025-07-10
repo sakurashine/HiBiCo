@@ -65,10 +65,10 @@ If this work aids your research, we would appreciate a kindly citation:
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
   title={Hierarchical and Bidirectional Contrastive Learning for Hyperspectral Image Classification}, 
   year={2025},
-  volume={},
+  volume={63},
   number={},
-  pages={1-1},
-  keywords={Hyperspectral image (HSI);self-supervised learning (SSL);learnable prototypical contrastive learning;hierarchical deep supervision;bidirectional contrastive learning},
+  pages={1-17},
+  keywords={Contrastive learning;Prototypes;Semantics;Hyperspectral imaging;Representation learning;Dictionaries;Data augmentation;Accuracy;Uncertainty;Training;Bidirectional contrastive learning;hierarchical deep supervision;hyperspectral image (HSI);learnable prototypical contrastive learning;self-supervised learning (SSL)},
   doi={10.1109/TGRS.2025.3582963}}
 ```
 
