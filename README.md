@@ -36,7 +36,7 @@ The dataset we used is provided below, you can also replace your own datasets fo
 - HyRANK: [National Earth Observation Data Center](https://www.noda.ac.cn/datasharing/datasetDetails/67c96f8cdf65e3259a9c9366)
 - Houston University 2018: [My Google Drive](https://drive.google.com/drive/folders/1_WPFh2iOrCP0BZ6JbCKsq9eNbGj6fIqE?usp=drive_link)
 
-## Pretrained models
+## Pretrained Models
 Please download the corresponding pretrained model and modify the `pretrained` parameter in `linear.py`.
 
 [IndianPines](https://drive.google.com/file/d/1zQ8nhpZaDyB5JYo4ERNp87Dp-N89ntly/view?usp=sharing) | [Botswana](https://drive.google.com/file/d/1VMIP_QUBUzHWi03Fuhz8oHtL-G4bG9pn/view?usp=sharing) | [HyRANK-Dioni](https://drive.google.com/file/d/1reaPW_EI37XX9OFuxVFSqfkgf93278vi/view?usp=sharing) | [Houston University 2018](https://drive.google.com/file/d/1KbARJFdgVNP5Q8CEf3NLuj1iPTHulbkI/view?usp=sharing)
